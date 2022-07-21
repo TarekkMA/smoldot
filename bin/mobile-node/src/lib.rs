@@ -1,3 +1,5 @@
+mod platform;
+
 #[cfg(test)]
 mod tests {
     #[test]
